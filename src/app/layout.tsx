@@ -7,7 +7,7 @@ const metadataBase = new URL('https://arnav.web.app');
 
 export const metadata: Metadata = {
   title: 'Arcz',
-  description: 'Personal website of Arnav Chhajed, a 16-year-old student and AI enthusiast from India, showcasing projects in AI, math, and physics.',
+  description: 'Personal website | Arnav Chhajed | 17 | AI & Math Romantic',
   metadataBase,
 };
 
@@ -20,7 +20,7 @@ const jsonLd = {
   knowsAbout: ["Artificial Intelligence", "Programming", "Physics", "Mathematics"],
   nationality: "Indian",
   sameAs: [
-    "https://www.linkedin.com/in/arnav-chhajed-b65893290/",
+    "https://www.linkedin.com/in/arcz/",
     "https://github.com/arczin",
   ],
 };
