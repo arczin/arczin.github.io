@@ -14,7 +14,7 @@ export function HeroSection() {
         alt="Abstract background image"
         data-ai-hint="abstract multicolor"
         fill
-        className="object-cover object-center z-0 opacity-20"
+        className="object-cover object-center z-0 opacity-30"
       />
       <motion.div
         initial={{ opacity: 0, y: 20 }}
