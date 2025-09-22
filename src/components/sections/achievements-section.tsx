@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
 
 const achievements = [
-  { title: "International Olympiads", description: "Competed and achieved few international Ranks (<500) in the Math, Science, and Cyber sof Olympiads. Awarded 14x Gold medals over the years 2014-15 to 2021-22." },
+  { title: "International Olympiads", description: "Enjoyed competing in Math, Science, and Cyber Olympiads, earning a few international ranks (<500) and 14 gold medals over the years (2014–22)" },
   { 
     title: "Academics", 
     description: (
@@ -24,7 +24,7 @@ const achievements = [
     title: "Standardized Testing", 
     description: (
       <>
-        SAT: 1540 (first attempt)
+        SAT: 1540 (first attempt, low-prep)
         <br />
         AP Scores:
         <br />
