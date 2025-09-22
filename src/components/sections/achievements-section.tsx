@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from "@/components/ui/carousel";
 
 const achievements = [
-  { title: "International Olympiads", description: "Achieved International Ranks 178, 260, 342, and 545 in the Math, Science, and Cyber Olympiads. Awarded 14x Gold medals over the years 2014-15 to 2021-22." },
+  { title: "International Olympiads", description: "Competed and achieved few international Ranks (<500) in the Math, Science, and Cyber sof Olympiads. Awarded 14x Gold medals over the years 2014-15 to 2021-22." },
   { 
     title: "Academics", 
     description: (

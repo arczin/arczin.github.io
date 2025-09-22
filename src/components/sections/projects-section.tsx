@@ -10,14 +10,14 @@ import { Separator } from "../ui/separator";
 const projects = [
   {
     title: "Parkinson's Detector",
-    shortDescription: "An early-screening app using acoustic markers for low-cost preclinical triage for Parkinson's disease.",
-    longDescription: "Motivated by family history, I am developing an application for early-stage Parkinson's screening. It uses a machine learning model that analyzes acoustic markers like vocal jitter, shimmer, and formants from voice recordings to provide a non-invasive, low-cost method for preclinical triage; Currently refining model.",
+    shortDescription: "Motivated by family history, an early-screening app using vocal/acoustic markers for low-cost preclinical triage for Parkinson's disease.",
+    longDescription: "From my experience, patients suffer from speech and motor impairment, using those markers, I am developing an application for early-stage Parkinson's screening. It uses a machine learning model that analyzes acoustic markers like vocal jitter, shimmer, and formants from voice recordings to provide a non-invasive, low-cost method for preclinical triage; Currently refining model.",
     image: "/parkinsons.png",
     imageHint: "brainwave chart"
   },
   {
     title: "Farm Assistance App",
-    shortDescription: "An AI-powered advisory app that provides sustainable crop suggestions to improve farm income; simulated ~5% avg. lift in farm income with localised advice.",
+    shortDescription: "Highly motivated by high farmer suicide rates in birthplace, built an AI-powered advisory app that provides sustainable crop suggestions to improve farm income; simulated ~5% lift in farm income with localised advice.",
     longDescription: "This application takes a farmer's photo, location, plot area, soil/budget, and preferences to provide sustainable crop suggestions. The goal is to make advanced agricultural technology accessible. Simulations showed an average lift of ~5% in farm income with its localized advice.",
     image: "/farm.png",
     imageHint: "lush farmland"
@@ -25,7 +25,7 @@ const projects = [
   {
     title: "AI Intern @ Pigeepost",
     shortDescription: "An AI intern project to create an AI sales agent and the initial framework (20–50x faster than humans*) that generates, enriches, and parses sales leads for personalized outreach.",
-    longDescription: "During my internship at pigeepost, I planned and built a model to generate, enrich, and parse sales leads. I trained a model on this data to prioritize leads and perform personalized outreach. This involved creating core AI agents and planning their integration into the sales workflow.",
+    longDescription: "During my internship at pigeepost, with the help of CEO (internship mentor) I planned and built a model to generate, enrich, and parse sales leads; trained a model on this data to prioritize leads and perform personalized outreach. This involved creating core AI agents and planning their integration into the sales workflow.",
     image: "/agent.png",
     imageHint: "glowing circuit"
   },
@@ -38,7 +38,7 @@ const projects = [
   },
    {
      title: "Gamified Productivity Website",
-     shortDescription: "A platform turning to-dos into quests, with mechanics (XP, streaks, rankings) that drive measurable gains in focus and consistency. (Private beta)",
+     shortDescription: "Inspired by duolingo; a platform turning to-dos into quests, with mechanics (XP, streaks, rankings) that drive measurable gains in focus and consistency. (Private beta)",
      longDescription: "This project combines productivity with gaming. Users can create to-do lists that are framed as quests in a role-playing game. Completing tasks earns them experience points, items, and achievements. The goal is to make productivity more engaging and less of a chore by leveraging game mechanics like rewards and competition through leaderboards.",
      image: "/gaming.png",
      imageHint: "fantasy landscape"
