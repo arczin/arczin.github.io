@@ -15,7 +15,7 @@ const achievements = [
         <br />
         Grade XI: 99.40%
         <br />
-        Grade XII: 98+% (predicted)
+        Grade XII: 98+% (predictive)
       </>
     )
   },
