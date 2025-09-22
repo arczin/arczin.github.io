@@ -24,7 +24,7 @@ const achievements = [
     title: "Standardized Testing", 
     description: (
       <>
-        SAT: 1540 (first attempt, 10-day prep)
+        SAT: 1540 (first attempt)
         <br />
         AP Scores:
         <br />

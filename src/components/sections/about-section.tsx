@@ -9,7 +9,7 @@ export function AboutSection() {
           <div className="space-y-4 text-lg/relaxed text-gray-300">
             <p>AI and Math Romantic</p>
             <p>
-              Currently exploring AI (now building an LLM from scratch), model
+              Currently exploring AI (now - trying to building an LLM from scratch), model
               architectures, optimization, and agentic design, guided by
               Stanford&apos;s CS336 and MIT OCW, Coursera,
               Brilliant and other resources.

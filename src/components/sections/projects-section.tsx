@@ -46,7 +46,7 @@ const projects = [
    {
      title: "Others",
      shortDescription: "A collection of side projects spanning AI, science communication, writings, and student initiatives.",
-     longDescription: "LLM from Scratch (CS336-inspired): Ongoing self-study + covering tokenization, training, optimization. Lowk tough, currently on the first assignment (Building LLM itself, yes thats the first assignment, optimization and other things later).\n\nBreakthrough Junior Challenge Video: \"Can Math make you Immortal\" - merging storytelling, neuroscience, and AI for science communication.\n\nKaggle & ML Projects: Housing price prediction, disease detection, soil condition modeling.\n\nHackathon Organizer (Student Launchpad): Coming REALLY SOON; no/low-code hackathon with workshops, sponsors, and student-focused tools.\n\nASI White Paper: Exploring multiple branching scenarios on how the emergence of superintelligence could impact the world.",
+     longDescription: "LLM from Scratch (CS336-inspired): Ongoing self-study + covering tokenization, training, optimization. (Tough, currently on the first assignment).\n\nBreakthrough Junior Challenge Video: \"Can Math make you Immortal\" - my attempt at merging storytelling, neuroscience, and AI for science communication.\n\nSmall Kaggle & ML Projects: Housing price prediction, disease detection, soil condition modeling and other small models.\n\nHackathon Organizer (Student Launchpad): Coming REALLY SOON; no/low-code hackathon with workshops, sponsors, and student-focused tools.\n\nAttempting to write White Paper on ASI: Exploring multiple branching scenarios on how the emergence of superintelligence could impact the world and getting to know more.",
      image: "/other.png",
      imageHint: "diverse projects collage"
    },
@@ -86,8 +86,8 @@ export function ProjectsSection() {
                       src={project.image}
                       alt={`Project image for ${project.title}`}
                       data-ai-hint={project.imageHint}
-                      width={600}
-                      height={400}
+                      width={450}
+                      height={300}
                       className="w-full h-full object-cover"
                     />
                   </div>
