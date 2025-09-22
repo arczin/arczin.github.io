@@ -58,7 +58,7 @@ export function ProjectsSection() {
     <section id="projects" className="w-full py-12 md:py-24 lg:py-32 px-4 md:px-6">
       <div className="flex flex-col items-center">
         <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12">
-          <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Selected Projects & Internships</h2>
+          <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Selected Projects & Internships ❤️</h2>
         </div>
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-2 max-w-5xl justify-center">
           {projects.map((project, index) => (
