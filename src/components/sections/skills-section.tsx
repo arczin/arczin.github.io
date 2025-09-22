@@ -62,7 +62,7 @@ export function SkillsSection() {
                                             <li>Python (general + ML applications)</li>
                                             <li>C++ (basic DSA)</li>
                                             <li>HTML (Intermediate), CSS (Intermediate), JavaScript (beginner but growing)</li>
-                                            <li>And a bunch of tools I pick up as needed :)</li>
+                                            <li>Good at adapting to new tools as projects and interests demand :)</li>
                                         </ul>
                                     </div>
                                 </SkillCategory>

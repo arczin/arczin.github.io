@@ -38,7 +38,7 @@ const achievements = [
   { title: "Brilliant.org & Mathacademy", description: "Ranked in the Top 1% out of over 10 million global learners on problem-solving platforms, achieving 90 percentile in Mathacademy within 2 months." },
   { title: "Competitive Challenges", description: "2x Selected as top 100 students Nation-wide in the Aryabhatta Mathematics Challenge from my region; qualified for the Homi Bhabha Balvaidnyanik Examination both levels two times." },
   { title: "Community Service", description: "Taught math using sign language and organized fundraising drives - convincing families to spend on Braille kits and hearing aids for Apang Vidyalaya instead of fireworks. Raised ₹20,000 to support students in need." },
-  {title: "Others", description: "Stacked wins across school debates; city robotics, conservation drives, singing, and math contests; plus certificates from Kaggle challenges, multiple courses, and mit hackathon, and much more."},
+  {title: "Others", description: "Explored and achieved a mix of things I’ve enjoyed over the years — from winning school debates, city robotics, and conservation drives, to singing, math contests, Kaggle challenges, online courses, mit hackathon, and more intriguing things."},
 ];
 
 export function AchievementsSection() {
