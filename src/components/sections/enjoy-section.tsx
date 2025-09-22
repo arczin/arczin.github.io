@@ -39,13 +39,13 @@ const enjoyments = [
   { title: "Meditating", description: "Practicing Jhana and Vipassana meditation to attempt at gaining mental clarity, understand my inner voice, and realize my responsibilities." },
   { title: "Playing Softball", description: "Competed in softball up to the state level, enjoying the teamwork and competitive spirit of the sport." },
   { title: "Student Leadership", description: "Served as Head of the Student Council for 4 years, focusing on reforms that resonated with everyone; bridging the gap between faculty and students." },
-  { title: "Community Service", 
+  { title: "Teaching (& learning with others)", 
     description: 
     (
       <>
-        Teaching in general feels really good.
+        Teaching is always a good feeling.
         <br />
-        Taught math using sign language and organized fundraising drives, purchasing Braille kits and hearing aids for those in need.
+        Loved teaching - especially math to peers, juniors, clubmates and specially using sign language for the differently abled.
       </>
     )
   },
