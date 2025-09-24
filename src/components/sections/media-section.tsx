@@ -2,6 +2,7 @@ export function MediaSection() {
   const videos = [
     { id: "czPTXTVVKGY", title: "Breakthrough Junior Challenge Submission" },
     { id: "ZEBR_QwjsTA", title: "Project Demo" },
+    { id: "2HrAoXpXVOg", title: "Intial Projects 😭" },
   ];
 
   return (
