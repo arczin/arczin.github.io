@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next";
 const metadataBase = new URL('https://arnav.web.app');
 
 export const metadata: Metadata = {
-  title: 'Arcz',
+  title: 'Arnav Chhajed | Arcz',
   description: 'Personal website | Arnav Chhajed | 17 | AI & Math Romantic',
   metadataBase,
 };
