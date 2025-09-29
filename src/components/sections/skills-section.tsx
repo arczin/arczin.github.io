@@ -25,8 +25,8 @@ export function SkillsSection() {
             <div className="flex justify-center text-center">
                 <Dialog>
                     <DialogTrigger asChild>
-                        <Button variant="link" className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl 
-text-decoration-line: underline underline-offset-8 text-[#05def6] hover:text-blue-500" >
+                        <Button variant="link" className="text-3xl px-8 py-10 font-bold tracking-tighter sm:text-4xl md:text-5xl 
+                        text-decoration-line: underline underline-offset-8 text-[#05def6] hover:text-white hover:scale-105  hover:bg-[#05def6]/90 hover:shadow-[0_0_40px_rgba(5,222,246,0.9),0_0_100px_rgba(5,222,246,0.5),0_0_160px_rgba(5,222,246,0.3)] hover:no-underline transition duration-300 " >
                             Skills
                         </Button>
                     </DialogTrigger>
