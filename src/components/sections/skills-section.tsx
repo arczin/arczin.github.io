@@ -25,7 +25,8 @@ export function SkillsSection() {
             <div className="flex justify-center text-center">
                 <Dialog>
                     <DialogTrigger asChild>
-                        <Button variant="link" className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl underline-offset-8 hover:underline text-blue-500" style={{ color: '#05def6' }}>
+                        <Button variant="link" className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl 
+text-decoration-line: underline underline-offset-8 text-[#05def6] hover:text-blue-500" >
                             Skills
                         </Button>
                     </DialogTrigger>
