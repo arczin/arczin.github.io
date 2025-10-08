@@ -1,4 +1,3 @@
-# 🌐 arczin.github.io
+# 🌐 arczin.vercel.app
 
-My personal website — showcasing projects, achievements, and interests.  
-Built with ❤️
+My personal website - showcasing projects, achievements, and interests.  
